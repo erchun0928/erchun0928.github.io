@@ -25,7 +25,7 @@ main{
     width: 1211px;
     height: 204px;
     margin-bottom: 21px;
-    background-image: url(image-compressed/mainnnn.jpg);
+    background-image: url (image-compressed/mainnnn.jpg); 
     background-size: auto;
 
 }
