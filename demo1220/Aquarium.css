@@ -1,0 +1,51 @@
+* {box-sizing: border-box;}
+
+img{
+    width: 100%;
+    display: block;
+}
+
+.wrap{
+    width: 1280px;
+    padding: 33px 35px 33px 34px;
+    background-color: #fff;
+}
+
+header{
+    width: 1211px;
+    height: 68px;
+    color: #fff;
+    font-weight: bold;
+    background-color:#000439;
+    padding:10px 5px;
+    margin-bottom: 21px;
+}
+
+main{
+    width: 1211px;
+    height: 204px;
+    margin-bottom: 21px;
+    background-image: url(image1227/mainnnn.jpg);
+    background-size: auto;
+
+}
+
+.card{
+    color: #fff;
+    width: 298px;
+    padding: 12px 15px 11px 14px;
+    background-color: #000439;
+}
+.card-title {
+    margin: 9px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-intro{
+    font-size: 10px;
+}
+
+section{
+    display: flex;
+    gap: 7px;
+}
